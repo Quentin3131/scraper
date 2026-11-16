@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Junior Backend Engineer",
+    "description": "Requirements: Python, PostgreSQL, Git, and REST APIs. Docker is a plus.",
+    "expected_skills": ["Python", "PostgreSQL", "Git", "REST APIs", "Docker"],
+    "expected_seniority": "junior"
+  },
+  {
+    "title": "Graduate Frontend Developer",
+    "description": "Requirements: JavaScript, TypeScript, React, HTML, and CSS. Testing is preferred.",
+    "expected_skills": ["JavaScript", "TypeScript", "React", "Testing"],
+    "expected_seniority": "graduate"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "description": "Internship using Python, AWS, Docker, and Git. Kubernetes is a plus.",
+    "expected_skills": ["Python", "AWS", "Docker", "Git", "Kubernetes"],
+    "expected_seniority": "internship"
+  }
+]

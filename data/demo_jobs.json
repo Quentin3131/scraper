@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Junior Backend Engineer",
+    "company": "Demo Systems",
+    "location": "Zurich, Switzerland",
+    "description": "Requirements: Python, PostgreSQL, Git, and REST APIs. Docker is a plus.",
+    "source_id": "demo-backend-1",
+    "source": "labeled_demo_data"
+  },
+  {
+    "title": "Graduate Frontend Developer",
+    "company": "Demo Web",
+    "location": "Zurich, Switzerland",
+    "description": "Requirements: JavaScript, TypeScript, React, HTML, and CSS. Testing is preferred.",
+    "source_id": "demo-frontend-1",
+    "source": "labeled_demo_data"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "company": "Demo Cloud",
+    "location": "Remote Switzerland",
+    "description": "Internship using Python, AWS, Docker, and Git. Kubernetes is a plus.",
+    "source_id": "demo-intern-1",
+    "source": "labeled_demo_data"
+  }
+]

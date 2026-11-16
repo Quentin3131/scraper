@@ -1,0 +1,165 @@
+{
+  "cooccurrence": [
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Docker",
+      "skill_b": "Git",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Docker",
+      "skill_b": "PostgreSQL",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Docker",
+      "skill_b": "Python",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Docker",
+      "skill_b": "REST APIs",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Git",
+      "skill_b": "PostgreSQL",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Git",
+      "skill_b": "Python",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Git",
+      "skill_b": "REST APIs",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "PostgreSQL",
+      "skill_b": "Python",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "PostgreSQL",
+      "skill_b": "REST APIs",
+      "support": 0.3333333333333333
+    },
+    {
+      "confidence_a_to_b": 1.0,
+      "confidence_b_to_a": 1.0,
+      "cooccurrence_count": 1,
+      "lift": 3.0,
+      "skill_a": "Python",
+      "skill_b": "REST APIs",
+      "support": 0.3333333333333333
+    }
+  ],
+  "quality": {
+    "canonical_postings": 3,
+    "collection_runs": 2,
+    "companies": 3,
+    "duplicates_merged": 0,
+    "missing_descriptions": 0,
+    "missing_locations": 0,
+    "requirements_extracted": 5,
+    "source_breakdown": {
+      "authorized_export": 3
+    },
+    "source_observations": 3,
+    "unclassified_jobs": 2
+  },
+  "skills": [
+    {
+      "category": "fundamentals",
+      "denominator": 3,
+      "posting_count": 1,
+      "posting_percentage": 33.33333333333333,
+      "preferred_count": 0,
+      "preferred_percentage": 0.0,
+      "required_count": 1,
+      "required_percentage": 33.33333333333333,
+      "skill": "Git"
+    },
+    {
+      "category": "database",
+      "denominator": 3,
+      "posting_count": 1,
+      "posting_percentage": 33.33333333333333,
+      "preferred_count": 0,
+      "preferred_percentage": 0.0,
+      "required_count": 1,
+      "required_percentage": 33.33333333333333,
+      "skill": "PostgreSQL"
+    },
+    {
+      "category": "programming_language",
+      "denominator": 3,
+      "posting_count": 1,
+      "posting_percentage": 33.33333333333333,
+      "preferred_count": 0,
+      "preferred_percentage": 0.0,
+      "required_count": 1,
+      "required_percentage": 33.33333333333333,
+      "skill": "Python"
+    },
+    {
+      "category": "fundamentals",
+      "denominator": 3,
+      "posting_count": 1,
+      "posting_percentage": 33.33333333333333,
+      "preferred_count": 0,
+      "preferred_percentage": 0.0,
+      "required_count": 1,
+      "required_percentage": 33.33333333333333,
+      "skill": "REST APIs"
+    },
+    {
+      "category": "devops",
+      "denominator": 3,
+      "posting_count": 1,
+      "posting_percentage": 33.33333333333333,
+      "preferred_count": 1,
+      "preferred_percentage": 33.33333333333333,
+      "required_count": 0,
+      "required_percentage": 0.0,
+      "skill": "Docker"
+    }
+  ]
+}
